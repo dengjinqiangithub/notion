@@ -3,7 +3,7 @@ const BLOG = {
   author: '大饭团',
   email: 'dengjinqian@gmail.com',
   link: 'https://notion-ynwa.vercel.app/',
-  description: 'This gonna be an awesome website.',
+  description: '欢迎来到大饭团的世界',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   timezone: 'Asia/Shanghai', // Your Notion posts' date will be interpreted as this timezone. See https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for all options.
   appearance: 'auto', // ['light', 'dark', 'auto'],
